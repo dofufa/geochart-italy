@@ -1,1 +1,16 @@
-.
+Code,Name
+IT-65,Abruzzo
+IT-77,Basilicata
+IT-78,Calabria
+IT-72,Campania
+IT-45,Emilia-Romagna
+IT-62,Lazio
+IT-42,Liguria
+IT-25,Lombardia
+IT-57,Marche
+IT-67,Molise
+IT-21,Piemonte
+IT-75,Pugl
+IT-52,Toscana
+IT-55,Umbria
+IT-34,Veneto
